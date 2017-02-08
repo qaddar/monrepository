@@ -1,2 +1,2 @@
 # monrepository
-mon premier repository
+c'est la repository de mon promier projet sur git
